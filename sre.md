@@ -1,4 +1,5 @@
 # Diego Alejandro Puertas
+[diego@puertas.name](mailto:diego@puertas.name) | [LinkedIn](https://www.linkedin.com/in/diegopuertas/) | +41 76 495 61 16 
 
 [Online version](https://bit.ly/3Z109VB)
 
