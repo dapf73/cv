@@ -3,7 +3,7 @@
 [LinkedIn](https://www.linkedin.com/in/diegopuertas/) |
 +41 76 495 61 16
 
-Online version: [https://bit.ly/3Z109VB](https://bit.ly/3Z109VB)
+Online version: [https://bit.ly/3yUSJZm](https://bit.ly/3yUSJZm)
 
 ## Work Experience
 
@@ -38,6 +38,8 @@ both the needs of systems reliability and innovation velocity.
 05.2019 - 01.2022
 
 3rd level Support for the Google Cloud customers on the infrastructure shard.
+Helping customers on architecture design, providing expertise on resource features
+and utilization, and issues troubleshooting.
 - Products supported:
   [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine),
   [Container Registry](https://cloud.google.com/container-registry),
