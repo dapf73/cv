@@ -301,12 +301,12 @@ Elaboration of a laboratory practices manual.
 
 ## Education
 
-- Electrical Engineering bachelor \
+- Electrical Engineering bachelor - 2000 \
   Universidad de Carabobo, Venezuela \
   Telecommunications minor
 
-- Computer Science Diploma \
+- Computer Science Diploma - 2009 \
   Concordia University, Montreal
 
-- Master of Engineering \
+- Master of Engineering - 2015 \
   Waterloo University, Waterloo
