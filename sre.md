@@ -1,4 +1,5 @@
 # Diego Alejandro Puertas
+
 [diego@puertas.name](mailto:diego@puertas.name) |
 [LinkedIn](https://www.linkedin.com/in/diegopuertas/) |
 +41 76 495 61 16
@@ -11,13 +12,14 @@ Online version: [https://bit.ly/3yUSJZm](https://bit.ly/3yUSJZm)
 
 01.2022 - 05.2023
 
-Responsible for the reliable operation of the Access Managemnt part of [Google 
+Responsible for the reliable operation of the Access Management part of [Google
 Cloud IAM](https://cloud.google.com/iam) service, a prerequisite to the utilisation
 of any other Google Cloud resource. This involved the application of the [Site
-Reliability Engineering](https://sre.google) principles, which puts in balance 
+Reliability Engineering](https://sre.google) principles, which puts in balance
 both the needs of systems reliability and innovation velocity.
 
 #### Responsibilities
+
 - OnCall rotation, incident handling.
 - Postmortem analysis of incidents.
 - Postmortem Action Items resolution.
@@ -28,10 +30,10 @@ both the needs of systems reliability and innovation velocity.
 - Code reviews.
 
 #### Projects
-- Design document for the migration of the Access Management service monitoring
-  configuration.
-- Design document for the migration of the Globalisation Service probers.
 
+- Design document for the migration of the Google Cloud Access Management
+  service monitoring configuration.
+- Design document for the migration of the Globalisation Service probers.
 
 ### Technical Solutions Engineer | Google
 
@@ -39,7 +41,8 @@ both the needs of systems reliability and innovation velocity.
 
 3rd level Support for the Google Cloud customers on the infrastructure shard.
 Helping customers on architecture design, providing expertise on resource features
-and utilization, and issues troubleshooting.
+and utilisation, and issues troubleshooting.
+
 - Products supported:
   [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine),
   [Container Registry](https://cloud.google.com/container-registry),
@@ -57,13 +60,13 @@ and utilization, and issues troubleshooting.
 - Took ownership of the Customer Engagement Lead (CEL) for Lowes, one of the
   biggest Google Cloud customers, with only four weeks to go before [Black Friday](https://www.investopedia.com/terms/b/blackfriday.asp)-[Cyber Monday](https://www.investopedia.com/terms/c/cybermonday.asp)
   (BFCM) 2019. In this time I ramped up as Customer Engagement Lead (CEL),
-  familiarized myself with Lowes architecture, projects, and the Professional 
+  familiarised myself with Lowes architecture, projects, and the Professional
   Service Office (PSO) team. I produced the necessary documentation for Support
-  and coordinated the efforts of PSO, Customer Engineering, and Support for the 
-  stress testing of their infra. Lowes was a key account in their recent adoption 
-  of GCP. Given their size and experiences in the previous two BFCM with another 
-  cloud provider, it was critical both for Lowes and Google that 2019 was a 
-  success. Thanks to an amazing team effort, Lowes named Google Cloud as "Top 
+  and coordinated the efforts of PSO, Customer Engineering, and Support for the
+  stress testing of their infra. Lowes was a key account in their recent adoption
+  of GCP. Given their size and experiences in the previous two BFCM with another
+  cloud provider, it was critical both for Lowes and Google that 2019 was a
+  success. Thanks to an amazing team effort, Lowes named Google Cloud as "Top
   Partner of the Year", and [increased their investment](https://corporate.lowes.com/newsroom/press-releases/google-cloud-helps-lowes-build-true-channel-less-customer-experience-01-13-20)
   on the platform.
 
@@ -75,7 +78,8 @@ and utilization, and issues troubleshooting.
 
 Received 7 spot bonuses and 2 peer bonuses. Among the spot bonuses I've got a
 2021 Q1 Team Titans Award for my case work closing P1 cases and a C19 Hard Work
-spot bonus for my contribution on supporting the critical rollout of COVID-19 governmnet web sites.
+spot bonus for my contribution on supporting the critical rollout of COVID-19
+government web sites.
 
 #### Mission Control Rotation with the IAM SRE team (06.2021 - 08.2021)
 
@@ -86,30 +90,31 @@ The project required the calculation and allocation of resources, redefinition
 of users and permissions, health validation, traffic migration without service
 interruption, and old binaries deprecation.
 
-
 ### Sr Cloud Software Engineer (DevOps) | [TD Canada Trust](https://www.td.com)
 
 11.2018 - 05.2019
 
-Responsible for the quality of the [SaltStack](https://saltproject.io), [Cloudify](https://cloudify.co), and [Jenkins](https://www.jenkins.io) code used to
-deploy infrastructure (Linux, Windows), and platforms (Jboss, Oracle, Websphere,
-etc), on the bank’s private/public cloud (OpenStack, VMWare, Azure). Vetting the
-merging of said code to production branch. Software life cycle and release 
-management. Pipeline design and maintenance. Helping Subject Matter Experts
-coding their SaltStack [states](https://docs.saltproject.io/en/latest/topics/states/).
+Responsible for the quality of the [SaltStack](https://saltproject.io),
+[Cloudify](https://cloudify.co), and [Jenkins](https://www.jenkins.io) code used
+to deploy infrastructure (Linux, Windows), and platforms (Jboss, Oracle,
+Websphere, etc), on the bank’s private/public cloud (OpenStack, VMWare, Azure).
+Vetting the merging of said code to production branch. Software life cycle and
+release management. Pipeline design and maintenance. Helping Subject Matter
+Experts coding their SaltStack
+[states](https://docs.saltproject.io/en/latest/topics/states/).
 
 #### Projects and Accomplishments
 
 - Setting up a [GNS3](https://www.gns3.com) lab to test network configuration
   automation.
 - Produced sample configurations to showcase in the GNS3 lab the binding of
-  service VMs configuration to their [network configuration](https://docs.saltproject.io/en/latest/topics/network_automation) (Cisco, Junos,
-  f5 Big-IP). Up to that point every update of a service in the bank required a 
-  toil-heavy process of coordination between the application team and the network 
-  team.
+  service VMs configuration to their
+  [network configuration](https://docs.saltproject.io/en/latest/topics/network_automation)
+  (Cisco, Junos, f5 Big-IP). Up to that point every update of a service in the
+  bank required a toil-heavy process of coordination between the application
+  team and the network team.
 - SaltStack version upgrade to 2018.3.x. Codebase review and testing to certify
   compatibility with the new version.
-
 
 ### Sr Information Systems Analyst | [Blackberry](https://blackberry.com)
 
@@ -118,6 +123,7 @@ coding their SaltStack [states](https://docs.saltproject.io/en/latest/topics/sta
 Introducing DevOps workflow on the recently acquired team, [Good Technology](https://www.blackberry.com/us/en/company/newsroom/press-releases/2015/blackberry-completes-good-technology-acquisition).
 
 #### Projects and accomplishments
+
 - Helping migrate their platform from [CFEngine](https://cfengine.com) to a modern
   Configuration Management system (CMS), and to streamline a 6 step process (DNS,
   kickstart, cfengine, release, monitoring, load balancer) into a single action.
@@ -127,16 +133,15 @@ Introducing DevOps workflow on the recently acquired team, [Good Technology](htt
   already developed. We didn't have vCloud or vRealize as part of our contract
   with VMware, so the whole resource provisioning and management had to be coded
   into the CMS. Left a working proof of concept done in Ansible, providing a
-  one-step procedure that ralked to vCenter for VM provisioning, replaces CFEngine
+  one-step procedure that talked to vCenter for VM provisioning, replaces CFEngine
   for system configuration, adds the host to Nagios, and handles the F5's DNS and
   load balancer configuration.
 
-- Identified an issue that caused 10% of downtime over a week, along with very 
+- Identified an issue that caused 10% of downtime over a week, along with very
   heavy oncall toil. The OracleDB processes, once assigned to a given core,
-  wouldn’t write to non-local NUMA memory, instead they were swapping heavily to 
+  wouldn’t write to non-local NUMA memory, instead they were swapping heavily to
   disk. The solution was to disable NUMA on the servers, so Oracle could write to
   any place of the RAM.
-
 
 ### Sr Infrastructure Specialist | [Blackberry](https://blackberry.com)
 
@@ -144,9 +149,9 @@ Introducing DevOps workflow on the recently acquired team, [Good Technology](htt
 
 Handling the DevOps software flow from development to production in their private
 cloud ([Open Nebula](https://opennebula.io)) for corporate sites.
-The CMS of choice was [Chef](https://www.chef.io). Worked with Devand QA teams to 
-ensure their code went through a proper dev-to-production lifecycle, collecting 
-information for continuous improvement, and architecting the platform to meet the 
+The CMS of choice was [Chef](https://www.chef.io). Worked with Dev and QA teams to
+ensure their code went through a proper dev-to-production lifecycle, collecting
+information for continuous improvement, and architecting the platform to meet the
 needs of the software.
 
 Acting as a liaison between development and different teams providing the
@@ -154,14 +159,13 @@ infrastructure.
 
 #### Projects
 
-- High-utilization API site, providing access to resources as Hadoop, Oracle, 
+- High-utilisation API site, providing access to resources as Hadoop, Oracle,
   MySQL, MS-SQL relational databases, and other BlackBerry internal services.
 - Learning management tool with connection to both internal and external
   course providers (Jboss).
 - Apache Camel pool of hosts, providing SOAP message routing for different
   applications.
 - Internal corporate news board PHP site.
-
 
 ### Unix Administrator | [Descartes Systems Group](https://descartes.com)
 
@@ -175,6 +179,7 @@ Virtualisation of physical machines on VMWare. Disk space management using LVM.
 Monitoring (Zabbix). Configuration management (Puppet).
 
 #### Projects
+
 - Priority reports of product deficiencies for the development team.
 - Design of an “Incident Management Framework”, using an incident database to
   classify them and provide solution procedures for 1st, 2nd, and 3rd line
@@ -186,12 +191,12 @@ Monitoring (Zabbix). Configuration management (Puppet).
 - Design of a network backup solution based on Bacula.
 
 #### Outstanding accomplishment
+
 A physical container scheduling service went down, and the cause was narrowed
 to a smoking server on a remote colocation space. The server was undocumented
 And the only thing we knew is that it was labeled *MX2* on the rack. Rebuilt the
-server out of the missing product functionality in less than 6 hours, putting an 
+server out of the missing product functionality in less than 6 hours, putting an
 end to a very costly downtime, both in revenue and reputation.
-
 
 ### Deployment Specialist | [Intelerad Medical Systems](https://intelerad.com)
 
@@ -203,6 +208,7 @@ overseas. Deployment projects included large systems of 100+ RedHat Linux
 servers.
 
 #### Tasks
+
 - Project management
 - Analysis of the client’s system architecture,
 - SAN and DAS storage administration (HP and Dell)
@@ -212,8 +218,9 @@ servers.
 - 3rd level support on Linux OS related issues
 
 #### Projects
+
 - Produced two standard procedures: server evergreening and renaming (DICOM).
-  Well defined and auditable processes are crucial both to standardise and 
+  Well defined and auditable processes are crucial both to standardise and
   facilitate deployment work and maintain the very strict medical industry
   conformance certifications the company requires to operate.
 - Development of tools to automatise the PACS deployment process (sanity check,
@@ -223,7 +230,6 @@ servers.
   a simple tool to gather all the necessary data to initiate a deployment. This
   reduced the amount time of initial back and forth communications, saving from
   one to two days of communication time with our Australian customers.
-
 
 ### Applications Administrator | [Interdigital](https://interdigital.com)
 
@@ -235,6 +241,7 @@ Them to assess their needs and plan the implementation and operation of
 such tools.
 
 #### Responsibilities
+
 - Sun Grid® Engine cluster administration (RedHat and Solaris servers) for high
   performance distributed computing, managing the distribution of resources for
   simulation and compilation jobs.
@@ -245,17 +252,17 @@ such tools.
 - Racking and replacement of servers, network devices. Datacenter cabling.
 
 #### Projects
-- Implementation of a kickstart server to deploy RedHat grid servers and 
+
+- Implementation of a kickstart server to deploy RedHat grid servers and
   workstations.
-- Implementation of Nagios for services and environmental (temperature, humidity) 
+- Implementation of Nagios for services and environmental (temperature, humidity)
   monitoring.
 - Developed [expect](https://linux.die.net/man/1/expect) [scripts](https://www.oreilly.com/library/view/exploring-expect/9781565920903/ch01.html)
   to perform daily backups of the Cisco network devices configuration on ClearCase.
   This avoided the purchase of the Cisco provided software of automated backups.
-- Developed a script to monitor the applications installed on windows workstations, 
+- Developed a script to monitor the applications installed on windows workstations,
   using python and the SysInternals suite, replacing the functionality of an
   expensive commercial application.
-
 
 ### Systems/Network Administrator | Carabobo University
 
@@ -285,7 +292,6 @@ from the LDAP server.
 
 Designed the network (layers 1 and 2) of the Faculty of Medicine, a 2 square Km
 area, with 11 buildings and 4 thousand users.
-
 
 ### Lecturer Professor | Carabobo University
 
